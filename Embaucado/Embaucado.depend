@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1718756929 source:h:\salchy\utn\cursada 2024\prog 1\trabajointegrador\embaucado\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"draw.h"
+
+1718756553 h:\salchy\utn\cursada 2024\prog 1\trabajointegrador\embaucado\funciones.h
+	<iostream>
+
+1718758434 source:h:\salchy\utn\cursada 2024\prog 1\trabajointegrador\embaucado\draw.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"draw.h"
+	"funciones.h"
+
+1718743296 h:\salchy\utn\cursada 2024\prog 1\trabajointegrador\embaucado\draw.h
+	<iostream>
+
+1571584340 h:\salchy\utn\cursada 2024\prog 1\trabajointegrador\embaucado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718758466 source:h:\salchy\utn\cursada 2024\prog 1\trabajointegrador\embaucado\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	<windows.h>
+	"funciones.h"
+	"draw.h"
+
+1719331897 source:c:\users\lcorrea\desktop\salchy\utn\prog i\proyecto integrador\embaucado\draw.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"draw.h"
+	"funciones.h"
+
+1571584340 c:\users\lcorrea\desktop\salchy\utn\prog i\proyecto integrador\embaucado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719331597 c:\users\lcorrea\desktop\salchy\utn\prog i\proyecto integrador\embaucado\draw.h
+
+1719332434 c:\users\lcorrea\desktop\salchy\utn\prog i\proyecto integrador\embaucado\funciones.h
+
+1719331092 source:c:\users\lcorrea\desktop\salchy\utn\prog i\proyecto integrador\embaucado\funciones.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"funciones.h"
+	"draw.h"
+	"rlutil.h"
+
+1719330903 source:c:\users\lcorrea\desktop\salchy\utn\prog i\proyecto integrador\embaucado\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"draw.h"
+	"sounds.h"
+
+1719449397 source:h:\salchy\utn\cursada 2024\prog 1\embaucado\draw.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"draw.h"
+	"funciones.h"
+
+1571584340 h:\salchy\utn\cursada 2024\prog 1\embaucado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719331597 h:\salchy\utn\cursada 2024\prog 1\embaucado\draw.h
+
+1719332434 h:\salchy\utn\cursada 2024\prog 1\embaucado\funciones.h
+
+1719361446 source:h:\salchy\utn\cursada 2024\prog 1\embaucado\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+	"draw.h"
+	"sounds.h"
+
+1719433473 source:h:\salchy\utn\cursada 2024\prog 1\embaucado\funciones.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	"funciones.h"
+	"draw.h"
+	"rlutil.h"
+
+1719331313 c:\users\lcorrea\desktop\salchy\utn\prog i\proyecto integrador\embaucado\sounds.h
+
+1719331302 source:c:\users\lcorrea\desktop\salchy\utn\prog i\proyecto integrador\embaucado\sounds.cpp
+	<windows.h>
+	<mmsystem.h>
+	<string>
+	"sounds.h"
+	<iostream>
+
+1719331313 h:\salchy\utn\cursada 2024\prog 1\embaucado\sounds.h
+
+1719433822 source:h:\salchy\utn\cursada 2024\prog 1\embaucado\sounds.cpp
+	<windows.h>
+	<mmsystem.h>
+	<string>
+	"sounds.h"
+	<iostream>
+
