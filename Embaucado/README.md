@@ -10,10 +10,11 @@ Extra: Librería gráfica para mostrar las cartas en consola:
 Utilizando la librería rlutil
 
 Durante la defensa, nos remarcaron que podemos solucionar el tema de la utilización de variables globales.
-Encontraron algunos bugs a la hora de ingresar letras en el ingreso del menú.
-Cambiamos una mecánica del juego que ya estaba definida dentro del problema (no mostrar las cartas al momento de preguntar por cambiar embaucadora), por lo que afectó a la nota final.
-No mostramos los puntos obtenidos en cada ronda al finalizar la partida, por lo que no cumple con la consigna final. afectando a la nota final.
-EXTRA: Por la librería gráfica y la animación del muestreo de cartas en consola, nos sumó los puntos antes descontados por los 2 puntos anteriores.
+- Encontraron algunos bugs a la hora de ingresar letras en el ingreso del menú.
+- Cambiamos una mecánica del juego que ya estaba definida dentro del problema (no mostrar las cartas al momento de preguntar por cambiar embaucadora), por lo que afectó a la nota final.
+- No mostramos los puntos obtenidos en cada ronda al finalizar la partida, por lo que no cumple con la consigna final. afectando a la nota final.
+- EXTRA: Por la librería gráfica y la animación del muestreo de cartas en consola, nos sumó los puntos antes descontados por los 2 puntos anteriores.
+
 Nota calificada final: 10
 
 ----------------------------------------------------
