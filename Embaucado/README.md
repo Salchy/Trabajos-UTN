@@ -8,7 +8,9 @@ El desarollo fue realizado por:
 Extra: Librería gráfica para mostrar las cartas en consola:
 - Correa Gimenez, Leandro
 Utilizando la librería rlutil:
+
 ![image](https://github.com/user-attachments/assets/9fafea30-9f8f-42a4-86c1-08a3104c0fdf)
+
 
 
 Durante la defensa, nos remarcaron que podemos solucionar el tema de la utilización de variables globales.
