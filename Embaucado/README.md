@@ -37,12 +37,6 @@ En el caso del Jugador 2, los naipes de su mano que no fueron embaucados son: 10
 
 Una vez determinados los naipes es necesario calcular los puntajes de la ronda. Los mismos se calculan a partir de la siguiente tabla:
 
-Naipe	Puntaje
-10	10
-J	11
-Q	12
-K	15
-A	20
 ![image](https://github.com/user-attachments/assets/1ee1bce3-7dee-411d-93da-c729d4250aa8)
 
 El puntaje de la ronda 1 para el jugador 1 es:
@@ -62,11 +56,6 @@ En la ronda 3, es el jugador 2 quien puede acceder a sacrificar puntos primero y
 - Fin de la partida
 Luego de haber transcurrido las tres rondas, quien haya obtenido más puntos en total es quien gana la partida. En el caso de que ambos jugadores se encuentren empatados al finalizar, ganará aquel jugador que haya obtenido más puntos en una ronda.
 
-Jugador 1		Jugador 2	
-Ronda	Puntos	Ronda2	Puntos3
-1	0	1	10
-2	20	2	10
-3	10	3	10
 ![image](https://github.com/user-attachments/assets/90f8b958-2a4d-413c-a987-0fe2d112f213)
 
 Dado el caso como el que se visualiza en la tabla que figura arriba, ambos jugadores llegaron al final de la partida con 30 puntos. Sin embargo, el ganador de la partida es el jugador 1 por haber tenido una ronda en la que registró el puntaje más alto.
